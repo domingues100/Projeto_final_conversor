@@ -19,3 +19,8 @@ Algumas bibliotecas precisam ser instaladas para funcionamento 100%.
  - BeautifulSoup: pip install beautifulsoup4;
  - DateTime: pip install DateTime;
  - Talvez outras sejam necessárias.
+
+## Arquivos
+ - links.dat contém os links da onde as cotações são retiradas;
+ - combo_ex.glade contém a configuração da interface;
+ - conversão.py é o script em si;
