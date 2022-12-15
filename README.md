@@ -3,7 +3,7 @@
 ## Contexto
 Projeto criado como trabalho final para disciplina de SEL0456, na qual, foi proposto a criação de um conversor de unidades usando PYTHON+GTK, com auxílio de Glade.
 
-## Grandezas adicionadsa
+## Grandezas adicionadas
  - Pressão
  - Massa
  - Moeda
