@@ -74,7 +74,7 @@ class TheApp:
     def on_entrada_changed(self, widget): #função que quando a entrada muda faz a conversão em tempo real, pega os ids de cada elemento e olha na tabela de cada grandeza (ID)
         entrada = self.builder.get_object('entry1')
         try:
-            entry = int(entrada.get_text())
+            entry = float(entrada.get_text())
         except:
             entry = 0
             pass
